@@ -22,7 +22,14 @@ The above image is the same data from the retiring titles minus the start dates 
 
 With the retiring titles image it is possible to see how many positions within a particular title will be retiring soon. This sheds light on which positions have the most potential for new hires. 
 
-Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+* Mentorship Eligible
+
+![](https://github.com/lightbright832/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibilty.png)
+
+Lastly we get data of the employees who are eligible for mentorship. This is important for future development of the staff who will be taking these positions. 
+
+## Summary
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Overall there will need to be 41,380 roles filled as the "silver tsunami" begins to make an impact.
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Currently there are 1,941 retirement-ready employees available to mentor the next generation of Pewlett Hackard employees. In comparison to the number of postions that are about to become available there does not appear to be an adequate number of available mentors. Based on these numbers each mentor would have to take on a minumum of 21 mentees. This is not realistic for any one person. Pewlett Hackard will more than likely need to call in reinforcement to deal with the impact of this "silver tsunami".
